@@ -2,7 +2,19 @@
 
 NoSQL Schemas for Apollo(n)
 
-## Schemas
+## Examples
+
+### Version
+
+```
+{
+  schema: 'car',
+  car: {
+    vendor: 'bmw',
+    model: 'z4'
+  }
+}
+```
 
 ### Timestamps
 
