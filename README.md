@@ -46,11 +46,23 @@ NoSQL Schemas for Apollo(n)
 }
 ```
 
-### Timestamps
+### Object with Timestamps
 
 ```
 {
-  createdAt: '',
-  updatedAt: ''
+  schema: {
+    name: 'car',
+    version: '1'
+  },
+  
+  car: {
+    vendor: 'bmw',
+    model: 'z4'
+  },
+  
+  ts: {
+    createdAt: '',
+    updatedAt: ''
+  }
 }
 ```
