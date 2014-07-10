@@ -9,6 +9,7 @@ NoSQL Schemas for Apollo(n)
 ```
 {
   schema: 'car',
+  
   car: {
     vendor: 'bmw',
     model: 'z4'
@@ -23,6 +24,7 @@ NoSQL Schemas for Apollo(n)
   schema: {
     name: 'car'
   },
+  
   car: {
     vendor: 'bmw',
     model: 'z4'
