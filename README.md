@@ -61,8 +61,8 @@ NoSQL Schemas for Apollo(n)
   },
   
   ts: {
-    createdAt: '',
-    updatedAt: ''
+    createdAt: '1404961593259',
+    updatedAt: '1404961593259'
   }
 }
 ```
